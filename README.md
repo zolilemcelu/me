@@ -13,8 +13,7 @@ Currently learning **SQL, MySQL, and PHP (Symfony/Doctrine)** and building real 
 ### 📊 Support Query Data Tracker
 - **Excel → PostgreSQL** schema + starter KPI queries
 - Tracks query types, FCR %, client ratings, and churn signals
-- Future: plug into BI dashboards
-👉 Repo: https://github.com/zolilemcelu/support-query-tracker
+  
 
 ### ⚙️ PHP + MySQL Practice Project
 - Beginner CRUD to practice schema design + DB connections
